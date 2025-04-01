@@ -98,7 +98,7 @@ the dropout probability was set to $`0.1`$. We also made use of the Adam optimis
 exponential moving average which was set to $`0.9999`$. EMA offers smooth model updates by applying more weight to
 recent data points as opposed to older. The values from the original paper were matched because the original
 denoising diffusion model was trained on multiple well-known datasets such as CIFAR10. These datasets
-can be classified as quite complex and so the values are likely to work with the ADNI data at hand. 
+are complex so the values are likely to work with the ADNI data at hand. 
 
 Some parameters we set, however, did diverge from the original paper. This was usually for reasons of 
 computation time and complexity, particularly during the training process. The input images were scaled down

@@ -172,7 +172,7 @@ that the current implementation of the denoising diffusion probabilistic model i
 for more refinements such as parameter-tuning or a more powerful UNet model is needed.
 ![sampled_images.png](figures/sampled_images.png)
 
-[^1]: Denoising Diffusion Probabilistic Models https://arxiv.org/abs/1706.03762
+[^1]: Denoising Diffusion Probabilistic Models https://arxiv.org/abs/2006.11239
 [^2]: U-Net: Convolutional Networks for Biomedical Image Segmentation https://arxiv.org/abs/1505.04597
 [^3]: Attention Is All You Need https://arxiv.org/abs/1706.03762
 [^4]: Visualizing Data using t-SNE https://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
